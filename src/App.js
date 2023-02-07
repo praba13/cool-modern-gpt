@@ -7,6 +7,8 @@ import {
   Possibility,
   WhatGPT3
 } from './containers';
+import './App.css';
+
 function App() {
   return (
     <div className='App'>
